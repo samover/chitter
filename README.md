@@ -2,7 +2,7 @@
 Chitter Challenge
 =================
 
-The Chitter Challenge is a weekend project for [Makers Academy](http://www.makersacademy.com) that uses Sinatra and Postgresql database (Datamapper) functionality. It consists of creating a little Twitter clone that will allow the users to post messages to a public stream.
+Chitter is a weekend project for [Makers Academy](http://www.makersacademy.com) that uses Sinatra and postgresql database (Datamapper) functionality. It consists of creating a little Twitter clone that will allow the users to post messages to a public stream.
 
 Here is a [working example](https://badass-chitter.herokuapp.com/).
 
